@@ -38,41 +38,6 @@ fares = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [AI-Powered Resume Screening & Candidate Matching System](https://github.com/faresayman-ai/AI-Powered-Resume-Screening-Candidate-Matching-System)
-> **999 applications. Zero manual reviews.**
-
-An n8n workflow that downloads CVs and job descriptions from Google Drive, feeds them to an LLM via OpenRouter, and writes `Accepted` / `Not Qualified` back into Google Sheets — automatically.
-
-`n8n` `OpenRouter` `Google Sheets` `Google Drive` `LLM` `HR Automation`
-
----
-
-### 📈 [10-K Financial Analyzer](https://github.com/faresayman-ai/10k-financial-analyzer)
-> **Ask a question. Get the number. No manual digging.**
-
-A Python tool that resolves a company name → fetches its latest SEC 10-K filing → parses the HTML → and returns the exact financial figure you asked for.
-
-```
-> Name of Company: Microsoft
-> Question: Net Income
-> $101,832 million dollars
-```
-
-`Python` `SEC EDGAR` `BeautifulSoup` `yfinance` `Financial Analysis`
-
----
-
-### 🎯 [AI Career Path Automation System — Skill Journey](https://github.com/faresayman-ai/Ai-career-automation-system)
-> **Submit a form. Receive a full learning roadmap in your inbox in under 10 seconds.**
-
-n8n workflow that takes a user's target skill, timeframe, and goal → routes to a career or hobby prompt → generates a step-by-step plan with GPT-3.5 → delivers it via styled HTML email.
-
-`n8n` `GPT-3.5` `Gmail` `Google Sheets` `Workflow Automation`
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
