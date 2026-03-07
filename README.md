@@ -33,10 +33,8 @@ fares = {
 
 - 🔭 I'm currently working on **AI-powered automation systems that eliminate manual workflows**
 - 👥 I'm looking to collaborate on **GenAI projects, n8n workflows, and LLM integrations**
-- 🤝 I'm looking for help with **scaling AI automation pipelines to production**
 - 🌱 I'm currently learning **AI agents and multi-step reasoning systems**
 - 💬 Ask me about **n8n, LLM integration, SEC EDGAR, Python automation**
-- ⚡ Fun fact: **I automated the screening of 999 job applications without reviewing a single one manually**
 
 ---
 
