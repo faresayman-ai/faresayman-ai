@@ -1,8 +1,8 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=200&section=header&text=FARES%20AYMAN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Automation%20Architect%20%7C%20GenAI%20Builder&descSize=16&descAlignY=58&animation=fadeIn)](https://github.com/faresayman-ai)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=200&section=header&text=FARES%20AYMAN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Automation%20Architect%20%7C%20GenAI%20Builder&descSize=16&descAlignY=58&animation=fadeIn)](https://github.com/faresayman-ai)
 
-### `AI Engineer` · `Automation Architect` · `GenAI Builder`
+### `AI / ML Engineer` · `Automation Architect` · `GenAI Builder`
 
 *I don't just use AI — I build systems that put it to work.*
 
